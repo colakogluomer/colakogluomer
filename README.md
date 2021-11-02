@@ -5,8 +5,8 @@ I'm a software developer trying to improve myself, and I'm also an undergrad. I'
 Technologies I Use:
 -JavaScript
 -Node.js
--React.js
--Redux
+-Vue.js
 -Express.js
 -MongoDB
 -Git/GitHub 
+-Docker
