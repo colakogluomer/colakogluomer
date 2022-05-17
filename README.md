@@ -5,7 +5,6 @@ I'm a software engineer trying to improve myself.Currently, I'm working on web-b
 Technologies I Use:
 -JavaScript
 -Node.js
--Vue.js
 -Express.js
 -MongoDB
 -Git/GitHub 
